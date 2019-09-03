@@ -11,3 +11,12 @@ knowledge Manage Mind
 [私董会 私人董事会 国内第一私董会-五五私董会官网](http://www.55ceo.cn/)
 
 [领教工坊](http://www.clec.com.cn/)
+
+## 各种商会
+[亚太地区商学院 沙漠挑战赛](http://www.mbaedu.cn/special/2019/PC0224/)
+
+寻找客源：
+- 各地 同乡 商会
+- 各地 高校 商学院
+- 各地 行业 商会
+- 各地 企业家 协会
