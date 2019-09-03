@@ -12,7 +12,7 @@ knowledge Manage Mind
 
 [领教工坊](http://www.clec.com.cn/)
 
-## 各种商会
+## 线下：各种商会
 [亚太地区商学院 沙漠挑战赛](http://www.mbaedu.cn/special/2019/PC0224/)
 
 寻找客源：
@@ -20,3 +20,6 @@ knowledge Manage Mind
 - 各地 高校 商学院
 - 各地 行业 商会
 - 各地 企业家 协会
+- 各地 企业家 联盟
+
+## 线上：todo
